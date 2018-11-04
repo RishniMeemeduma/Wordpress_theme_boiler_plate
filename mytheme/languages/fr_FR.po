@@ -1,0 +1,39 @@
+# Copyright (C) 2013 Your name here
+# This file is distributed under the same license as the Wordpress Boilerplate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Boilerplate 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/boilerplate\n"
+"POT-Creation-Date: 2013-01-25 13:29:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: index.php:13
+msgid "Hello world! This is HTML5 Boilerplate."
+msgstr "Bonjour le monde! C'est HTML5 Boilerplate."
+
+#. Theme Name of the plugin/theme
+msgid "Wordpress Boilerplate"
+msgstr "Wordpress Boilerplate"
+
+#. Description of the plugin/theme
+msgid ""
+"Wordpress Theme Boilerplate : state-of-the-art starting theme files. "
+"Includes HTML5 Boilerplate, SMACSS, History.js, Modernizr.js and Wordpress "
+"best practices."
+msgstr ""
+"Wordpress Theme Boilerplate : fichiers pour démarrer un thème de pointe. "
+"Inclus HTML5 Boilerplate, SMACSS, History.js, Modernizr.js et les meilleures "
+"pratiques de développement Wordpress."
+
+#. Author of the plugin/theme
+msgid "Your name here"
+msgstr "Votre nom ici"
+
+#. Author URI of the plugin/theme
+msgid "Your URL here"
+msgstr "Votre URL ici"

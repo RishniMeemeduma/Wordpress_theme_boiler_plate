@@ -1,0 +1,38 @@
+/*
+ * Theme Name: mytheme
+ * Author: Rishni meemeduma
+ * Author URI: Your URL here
+ * Description: WordPress Theme Boilerplate : state-of-the-art starting theme files. Includes HTML5 Boilerplate, SMACSS, History.js, Modernizr.js and WordPress best practices.
+ * Version: 0.1
+ * Text Domain:
+ */
+ 
+/*
+ * This theme follows SMACSS guideline http://smacss.com/book/categorizing
+ * All CSS rules are located into the following files :
+ *  # css/base.css : the defaults
+ *  # css/layout.css : major components
+ *  # css/module.css : discrete components
+ *  # css/state.css : augments and overrides all other styles
+ *  # css/theme.css : specific look and feel
+ */
+ body
+{
+text-align: left;
+}
+#ttr_sidebar
+{
+border-left: 1px solid black;
+}
+#ttr_footer
+{
+width: 100%;
+border-top: 1px #a2a2a2 solid;
+text-align: center;
+}
+.title
+{
+font-size: 11pt;
+font-family: verdana;
+font-weight: bold;
+}
